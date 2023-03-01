@@ -43,7 +43,7 @@ The aim of analysis is to identify the root cause of the problem (i.e. cancellat
 
 • Calculate Supply gap in City and Airport.
 
-• Convert every date to day name  and plotting daily requests then :
+• Map each date to day name  and deriving some insights on daily requests :
 
     •Plotting daily requests wrt Pickup points.
     •Plotting daily requests wrt Status.
@@ -63,7 +63,7 @@ The aim of analysis is to identify the root cause of the problem (i.e. cancellat
 
 
 ## Power BI
-Further Analysis was done using Power BI, answering some questions about the data
+Further Analysis was done using Power BI, answering some questions about the data.
 ![Screenshot (67)](https://user-images.githubusercontent.com/124359144/222095068-c141358d-0936-4c93-ae48-11d95705fbd7.png)
 
 
