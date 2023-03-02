@@ -57,7 +57,7 @@ The aim of analysis is to identify the root cause of the problem (i.e. cancellat
 
 •Creating diffrent timeslots to help us in further analysis.
 
-•Creating a new Dataframe containg Status of each time slot at both pickup points .
+•Creating a new Dataframe containg Status of each time slot at each pickup points .
 
 •Insights on Supply and demand gap in City and Airport.
 
